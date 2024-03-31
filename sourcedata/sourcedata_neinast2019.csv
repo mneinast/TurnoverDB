@@ -1,0 +1,14 @@
+Species,Sex,Compound,TracerElements,Fasting,Unusual,Ra_nmol_min_g,Ra_nmol_min
+Mouse,M,valine,C,T,,10.8,326
+Mouse,M,leucine,C,T,,16.1,434
+Mouse,M,isoleucine,C,T,,6.8,202.8
+Mouse,M,2-ketoisovaleric acid,C,T,,3.2,82.3
+Mouse,M,isoleucine,C,T,,7.6,220.8
+Mouse,M,isoleucine,C,T,BT2,8.0,233.9
+Mouse,M,isoleucine,C,T,,6.2,184.2
+Mouse,M,isoleucine,C,T,hyperinsulinemic-euglycemic clamp,7.6,224.9
+Mouse,M,valine,C,T,,12.0,302
+Mouse,M,valine,C,T,db/db mouse,5.8,281.7
+Mouse,M,valine,C,T,,8.9,274.2
+Mouse,M,valine,C,T,db/db mouse,5.1,278.2
+Mouse,M,isoleucine,C,T,high-fat diet,5.9,243.7
