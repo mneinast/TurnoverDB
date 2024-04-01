@@ -135,3 +135,4 @@
 "134","sourcedata_McBride2024.csv","Glycine homeostasis requires reverse SHMT flux","McBride",2024,"https://doi.org/10.1016/j.cmet.2023.12.001","Mouse","M","serine","C","Fed","serine/glycine-free diet",15.6,NA,TRUE
 "135","sourcedata_McBride2024.csv","Glycine homeostasis requires reverse SHMT flux","McBride",2024,"https://doi.org/10.1016/j.cmet.2023.12.001","Mouse","M","glycine","C","Fed","serine/glycine-free diet",16.9,NA,TRUE
 "136","sourcedata_McBride2024.csv","Glycine homeostasis requires reverse SHMT flux","McBride",2024,"https://doi.org/10.1016/j.cmet.2023.12.001","","","","",NA,"",NA,NA,FALSE
+"137","Rakotoambinina2004.csv","Taurine kinetics assessed using [1,2-13C2]taurine in healthy adult humans","Rakotoambinina",2004,"https://doi.org/10.1152/ajpendo.00333.2003","Human","M","taurine","C","Fasting",NA,0.561666667,40720.83333,NA

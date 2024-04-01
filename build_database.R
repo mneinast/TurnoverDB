@@ -50,8 +50,24 @@ combined_data$Fasting <- dplyr::if_else(combined_data$Fasting == T, "Fasting", i
 
 
 # save the combined dataframe to a csv file
-write.csv(combined_data, "./combined_data.csv")
+write.csv(combined_data, "./TurnoverDB/combined_data.csv")
 
+
+#################################################
+# TESTING save the dataframe to an SQLite file
+library(RSQLite)
+
+# make the connection (and create the db if it does not yet exist)
+con <- dbConnect(SQLite(), dbname = "combined_data_test.sqlite")
+
+# write a new table in the db using combined_data
+dbWriteTable(con, "combined_data", combined_data)
+
+# verify
+dbReadTable(con, "combined_data")
+
+# close connection
+dbDisconnect(con)
 
 
 
