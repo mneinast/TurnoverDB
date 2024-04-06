@@ -4,13 +4,6 @@
 
 
 
-
-
-
-# this function sets the app to show warnings, messages in the console
-#showLog(3)
-
-
 ##################################
 # source the ui and server scripts
 ##################################
